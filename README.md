@@ -1,0 +1,3 @@
+# Exercicio
+
+##Resolução do exercício 
